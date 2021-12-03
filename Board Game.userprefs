@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DiceRoller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MouseController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StoneStorage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DiceRoller.cs" Line="63" Column="6" />
+      <File FileName="Assets\SettingsPanel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

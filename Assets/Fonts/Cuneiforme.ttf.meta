@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9e75bf03c6455a34f8b31f64cc0638de
+timeCreated: 1510507988
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cuneiforme
+  fontNames:
+  - Cuneiforme
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
